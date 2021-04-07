@@ -1,0 +1,6 @@
+['Nearest_fram', '20200923110901939', 'Movie_name', None, 'Momvie_duration', 2.066666666666667]
+['Nearest_fram', '20200923110901939', 'Movie_name', ['/home/dev/moviesk/testing/musicroot'], 'Momvie_duration', 2.066666666666667]
+['Nearest_fram', '20200923110901939', 'Movie_name', ['/home/dev/moviesk/testing/musicroot'], 'Momvie_duration', 2.066666666666667]
+['Nearest_fram', '20200923110901939', 'Movie_name', ['/home/dev/moviesk/testing/musicroot'], 'Momvie_duration', 2.066666666666667]
+['Nearest_fram', '20200923110901939', 'Movie_name', ['/home/dev/moviesk/testing/musicroot'], 'Momvie_duration', 2.066666666666667]
+['Nearest_fram', '20200923110901939', 'Movie_name', ['/home/dev/moviesk/testing/musicroot'], 'Momvie_duration', 2.066666666666667]

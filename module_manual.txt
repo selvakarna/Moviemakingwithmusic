@@ -1,0 +1,34 @@
+
+
+input_dir='image root'  /// selecte utcimg folder
+
+output_dir='Merged_video_out' /// selecte Merged_video_out //use this folder name// its only run
+
+past_seconds=integer value /// 1,2,3 /// pass number as integer
+
+futur_out_seconds= integer value /// 1,2,3 /// pass number as integer
+
+inp_img_timestamp=1584418421986 /// copy and past
+
+
+How to run this application:
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+Linux machine:
+
+type in terminal:
+
+sh runme.sh 
+or
+
+python guitest.py
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+
+
+Note:
+
+before run this module to create folder in current dir =Merged_video_out,croped_audio
+
+
+
